@@ -1,0 +1,23 @@
+{
+  "total_samples": 3035520,
+  "non_deterministic_rate": 0.27354061248155176,
+  "non_deterministic_samples": 830338,
+  "non_deterministic_groups": 1830,
+  "causal_equivalence_rate": 0.18586436590765337,
+  "causal_equivalence_samples": 564195,
+  "causal_equivalence_flow_bands": 25,
+  "config_non_deterministic": {
+    "occ_bin": 0.005,
+    "speed_bin": 1.0,
+    "min_count": 5,
+    "flow_std_threshold": 100.0
+  },
+  "config_causal_equivalence": {
+    "flow_bin": 4,
+    "occ_bin": 0.005,
+    "speed_bin": 1.0,
+    "min_samples_per_flow_band": 500,
+    "min_cell_count": 6,
+    "min_component_cells": 14
+  }
+}
