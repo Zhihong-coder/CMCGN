@@ -1,6 +1,7 @@
-# PEMS08 
+# Beyond Correlation: Causal Generative Networks with Implicit Modal Discovery for Multimodal Traffic Flow Prediction
+Zhihong Wang, Wei Li, Member, IEEE, Yidan Chen, Junhui Jiang, Xiaohua Jia, Fellow, IEEE, and Moustafa Youssef, Fellow, IEEE
 
-## Data
+## Data Validation
 - File: `PEMS08.zip`
 - Raw tensor shape: `(17856, 170, 3)`
 - Flattened samples used in this experiment: `3,035,520`
