@@ -1,6 +1,9 @@
 # Beyond Correlation: Causal Generative Networks with Implicit Modal Discovery for Multimodal Traffic Flow Prediction
 Zhihong Wang, Wei Li, Member, IEEE, Yidan Chen, Junhui Jiang, Xiaohua Jia, Fellow, IEEE, and Moustafa Youssef, Fellow, IEEE
 
+![model_arch](https://github.com/Zhihong-coder/CMCGN/blob/master/CMCGN.png)
+![model_arch](https://github.com/Zhihong-coder/CMCGN/blob/master/PEMS-Rain.png)
+
 ## Data Validation
 Data download https://github.com/wanhuaiyu/ASTGCN
 - File: `PEMS08.zip`
