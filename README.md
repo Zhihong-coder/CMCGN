@@ -2,6 +2,7 @@
 Zhihong Wang, Wei Li, Member, IEEE, Yidan Chen, Junhui Jiang, Xiaohua Jia, Fellow, IEEE, and Moustafa Youssef, Fellow, IEEE
 
 ## Data Validation
+Data download https://github.com/wanhuaiyu/ASTGCN
 - File: `PEMS08.zip`
 - Raw tensor shape: `(17856, 170, 3)`
 - Flattened samples used in this experiment: `3,035,520`
@@ -25,7 +26,8 @@ Zhihong Wang, Wei Li, Member, IEEE, Yidan Chen, Junhui Jiang, Xiaohua Jia, Fello
 - A flow band is marked “causal-equivalent” if it contains at least **two disconnected dense components**, and each component has at least `14` occupied cells.
 - Only flow bands with at least `500` samples are evaluated.
 
-## Run
+## Validation of A and B
+### Run
 ```bash
 python implicit_stats.py
 ```
